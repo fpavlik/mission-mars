@@ -1,6 +1,8 @@
 # mission-mars
 `Kaspersky lab` few days ago create a quest to decode the message for Earth to Mars space ship, i've done it for 20 minutes, but hash was uncorrect. Why??? 
 
+i've done it only for fun, because they need C+, C# or Python. I use NodeJS
+
 U can try it out [here](https://vc.ru/mars)
 
 Message was 
